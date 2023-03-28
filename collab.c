@@ -72,6 +72,15 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void ageorg48_ccohen7(){
+   printf("Alexander George, and Chaya Cohen\n");
+    printf("We discovered that Git is very helpful in tracking modifications to your"
+      "code across time.\n This makes it easier to review past changes and collaborate"
+      "with others on projects.\n One difficulty we had was understanding the difference"
+      "between Git and GitHub.\n Git is a version control system, while GitHub is an online"
+      "platform for saving and sharing code with others.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +92,6 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-
+  ageorg48_ccohen7();
   return 0;
 }
